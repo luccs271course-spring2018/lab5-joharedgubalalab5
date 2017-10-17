@@ -2,6 +2,7 @@ package edu.luc.cs271.linkedstack;
 
 import java.util.List;
 import java.util.ArrayList;
+import java.util.*;
 
 
 public class LinkedStack<E> implements IStack<E> {
