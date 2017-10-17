@@ -14,6 +14,7 @@ public class LinkedStack<E> implements IStack<E> {
   @Override
   public E push(final E obj) {
     // TODO
+    LinkedStack.push(obj);
     return null;
   }
 
